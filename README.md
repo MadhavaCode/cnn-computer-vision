@@ -1,6 +1,6 @@
-# cnn-computer-vision
+# Convolution Neural Network
 
-Convolutional Neural Networks — from first principles to industry-standard architectures.
+Convolutional Neural Networks from first principles to industry-standard architectures.
 
 ## 🏗 Architectures
 
